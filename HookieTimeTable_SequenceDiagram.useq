@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sequence-diagram version="1.1.4" icons="true" automaticImage="JPEG">  
+  <object id="1" language="java" name="com.example.hookietimetable.VTClass" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/VTClass.java" binary="false" label="vtClass" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="10" y="0"/>    
+    <execution id="2">      
+      <position height="76" width="131" x="5" y="1076"/>    
+    </execution>    
+    <execution id="4">      
+      <position height="19" width="131" x="5" y="1114"/>    
+    </execution>    
+    <execution id="5">      
+      <position height="96" width="131" x="5" y="1176"/>    
+    </execution>    
+    <execution id="7">      
+      <position height="19" width="131" x="5" y="1234"/>    
+    </execution>    
+    <execution id="8">      
+      <position height="76" width="131" x="5" y="1304"/>    
+    </execution>    
+    <execution id="10">      
+      <position height="19" width="131" x="5" y="1342"/>    
+    </execution>    
+    <execution id="11">      
+      <position height="76" width="131" x="5" y="1434"/>    
+    </execution>    
+    <execution id="13">      
+      <position height="19" width="131" x="5" y="1472"/>    
+    </execution>    
+    <execution id="14">      
+      <position height="76" width="131" x="5" y="1546"/>    
+    </execution>    
+    <execution id="16">      
+      <position height="19" width="131" x="5" y="1584"/>    
+    </execution>    
+    <execution id="17">      
+      <position height="76" width="131" x="5" y="1664"/>    
+    </execution>    
+    <execution id="19">      
+      <position height="19" width="131" x="5" y="1702"/>    
+    </execution>    
+    <execution id="20">      
+      <position height="76" width="131" x="5" y="1780"/>    
+    </execution>    
+    <execution id="22">      
+      <position height="19" width="131" x="5" y="1818"/>    
+    </execution>    
+    <execution id="23">      
+      <position height="76" width="131" x="5" y="1893"/>    
+    </execution>    
+    <execution id="25">      
+      <position height="19" width="131" x="5" y="1931"/>    
+    </execution>    
+    <execution id="26">      
+      <position height="76" width="131" x="5" y="1994"/>    
+    </execution>    
+    <execution id="28">      
+      <position height="19" width="131" x="5" y="2032"/>    
+    </execution>    
+    <execution id="29">      
+      <position height="76" width="131" x="5" y="2105"/>    
+    </execution>    
+    <execution id="31">      
+      <position height="19" width="131" x="5" y="2143"/>    
+    </execution>    
+    <execution id="32">      
+      <position height="76" width="131" x="5" y="2224"/>    
+    </execution>    
+    <execution id="34">      
+      <position height="19" width="131" x="5" y="2262"/>    
+    </execution>    
+    <execution id="35">      
+      <position height="76" width="131" x="5" y="2338"/>    
+    </execution>    
+    <execution id="37">      
+      <position height="19" width="131" x="5" y="2376"/>    
+    </execution>    
+    <execution id="38">      
+      <position height="76" width="131" x="5" y="2451"/>    
+    </execution>    
+    <execution id="40">      
+      <position height="19" width="131" x="5" y="2489"/>    
+    </execution>    
+    <execution id="41">      
+      <position height="76" width="131" x="5" y="2573"/>    
+    </execution>    
+    <execution id="43">      
+      <position height="19" width="131" x="5" y="2611"/>    
+    </execution>    
+    <execution id="44">      
+      <position height="76" width="131" x="5" y="2698"/>    
+    </execution>    
+    <execution id="46">      
+      <position height="19" width="131" x="5" y="2736"/>    
+    </execution>    
+    <execution id="47">      
+      <position height="76" width="131" x="5" y="2815"/>    
+    </execution>    
+    <execution id="49">      
+      <position height="19" width="131" x="5" y="2853"/>    
+    </execution>  
+  </object>  
+  <object id="50" language="java" name="com.example.hookietimetable.HtmlTableParser" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/HtmlTableParser.java" binary="false" label="htmlTableParser" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="402" y="0"/>    
+    <execution id="51">      
+      <position height="57" width="131" x="140" y="967"/>    
+    </execution>    
+    <execution id="53">      
+      <position height="19" width="131" x="140" y="986"/>    
+    </execution>    
+    <execution id="54">      
+      <position height="1837" width="131" x="140" y="1073"/>    
+    </execution>    
+    <execution id="57">      
+      <position height="19" width="131" x="140" y="1111"/>    
+    </execution>  
+  </object>  
+  <object id="73" language="java" name="com.example.hookietimetable.TimeTableQuery.Parse" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/TimeTableQuery.java" binary="false" label="parse" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="249" y="0"/>    
+    <execution id="74">      
+      <position height="76" width="131" x="275" y="691"/>    
+    </execution>    
+    <execution id="76">      
+      <position height="19" width="131" x="275" y="729"/>    
+    </execution>    
+    <execution id="77">      
+      <position height="76" width="131" x="275" y="788"/>    
+    </execution>    
+    <execution id="79">      
+      <position height="19" width="131" x="275" y="826"/>    
+    </execution>    
+    <execution id="80">      
+      <position height="2028" width="131" x="275" y="901"/>    
+    </execution>    
+    <execution id="82">      
+      <position height="19" width="131" x="275" y="939"/>    
+    </execution>    
+    <execution id="85">      
+      <position height="233" width="131" x="275" y="1250"/>    
+    </execution>    
+    <execution id="89">      
+      <position height="19" width="131" x="275" y="1317"/>    
+    </execution>  
+  </object>  
+  <object id="92" language="java" name="com.example.hookietimetable.TimeTableQuery" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/TimeTableQuery.java" binary="false" label="timeTableQuery" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="249" y="0"/>    
+    <execution id="93">      
+      <position height="231" width="131" x="410" y="440"/>    
+    </execution>    
+    <execution id="97">      
+      <position height="19" width="131" x="410" y="524"/>    
+    </execution>    
+    <execution id="100">      
+      <position height="76" width="131" x="410" y="90"/>    
+    </execution>    
+    <execution id="102">      
+      <position height="19" width="131" x="410" y="128"/>    
+    </execution>    
+    <execution id="103">      
+      <position height="76" width="131" x="410" y="323"/>    
+    </execution>    
+    <execution id="105">      
+      <position height="19" width="131" x="410" y="361"/>    
+    </execution>    
+    <execution id="106">      
+      <position height="211" width="131" x="410" y="672"/>    
+    </execution>    
+    <execution id="109">      
+      <position height="19" width="131" x="410" y="753"/>    
+    </execution>    
+    <execution id="111">      
+      <position height="76" width="131" x="410" y="210"/>    
+    </execution>    
+    <execution id="113">      
+      <position height="19" width="131" x="410" y="248"/>    
+    </execution>  
+  </object>  
+  <object id="114" language="java" name="com.example.hookietimetable.MainActivity" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/MainActivity.java" binary="false" label="mainActivity" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="118" y="0"/>    
+    <execution id="115">      
+      <position height="114" width="131" x="545" y="71"/>    
+    </execution>    
+    <execution id="118">      
+      <position height="19" width="131" x="545" y="120"/>    
+    </execution>    
+    <execution id="121">      
+      <position height="114" width="131" x="545" y="191"/>    
+    </execution>    
+    <execution id="124">      
+      <position height="19" width="131" x="545" y="253"/>    
+    </execution>    
+    <execution id="126">      
+      <position height="19" width="131" x="545" y="253"/>    
+    </execution>    
+    <execution id="127">      
+      <position height="114" width="131" x="545" y="326"/>    
+    </execution>    
+    <execution id="131">      
+      <position height="19" width="131" x="545" y="383"/>    
+    </execution>    
+    <execution id="95">      
+      <position height="76" width="131" x="545" y="459"/>    
+    </execution>    
+    <execution id="133">      
+      <position height="19" width="131" x="545" y="497"/>    
+    </execution>    
+    <execution id="87">      
+      <position height="76" width="131" x="545" y="1269"/>    
+    </execution>    
+    <execution id="135">      
+      <position height="19" width="131" x="545" y="1307"/>    
+    </execution>    
+    <execution id="99">      
+      <position height="76" width="131" x="545" y="576"/>    
+    </execution>    
+    <execution id="137">      
+      <position height="19" width="131" x="545" y="614"/>    
+    </execution>    
+    <execution id="91">      
+      <position height="89" width="131" x="545" y="1375"/>    
+    </execution>    
+    <execution id="139">      
+      <position height="19" width="131" x="545" y="1426"/>    
+    </execution>    
+    <execution id="140">      
+      <position height="129" width="131" x="545" y="686"/>    
+    </execution>    
+    <execution id="144">      
+      <position height="19" width="131" x="545" y="777"/>    
+    </execution>    
+    <execution id="145">      
+      <position height="19" width="7" x="607" y="1283"/>    
+    </execution>    
+    <execution id="146">      
+      <position height="19" width="7" x="607" y="1378"/>    
+    </execution>  
+  </object>  
+  <object id="147" language="java" name="com.example.hookietimetable.ProfessorQuery" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/ProfessorQuery.java" binary="false" label="professorQuery" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="485" y="0"/>    
+    <execution id="148">      
+      <position height="76" width="131" x="680" y="100"/>    
+    </execution>    
+    <execution id="150">      
+      <position height="19" width="131" x="680" y="138"/>    
+    </execution>    
+    <execution id="120">      
+      <position height="19" width="7" x="745" y="142"/>    
+    </execution>    
+    <execution id="151">      
+      <position height="76" width="131" x="680" y="453"/>    
+    </execution>    
+    <execution id="153">      
+      <position height="19" width="131" x="680" y="491"/>    
+    </execution>    
+    <execution id="129">      
+      <position height="76" width="131" x="680" y="345"/>    
+    </execution>    
+    <execution id="155">      
+      <position height="19" width="131" x="680" y="383"/>    
+    </execution>    
+    <execution id="142">      
+      <position height="76" width="131" x="680" y="705"/>    
+    </execution>    
+    <execution id="157">      
+      <position height="19" width="131" x="680" y="743"/>    
+    </execution>    
+    <execution id="158">      
+      <position height="250" width="131" x="680" y="823"/>    
+    </execution>    
+    <execution id="162">      
+      <position height="19" width="131" x="680" y="949"/>    
+    </execution>  
+  </object>  
+  <object id="165" language="java" name="com.example.hookietimetable.ProfessorQuery.Parse" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/ProfessorQuery.java" binary="false" label="parse1" 
+    type="class" autoSize="true">    
+    <position height="-1" width="-1" x="485" y="0"/>    
+    <execution id="160">      
+      <position height="77" width="131" x="815" y="842"/>    
+    </execution>    
+    <execution id="167">      
+      <position height="19" width="131" x="815" y="881"/>    
+    </execution>    
+    <execution id="164">      
+      <position height="76" width="131" x="815" y="978"/>    
+    </execution>    
+    <execution id="169">      
+      <position height="19" width="131" x="815" y="1016"/>    
+    </execution>    
+    <execution id="170">      
+      <position height="317" width="131" x="815" y="1072"/>    
+    </execution>    
+    <execution id="174">      
+      <position height="19" width="131" x="815" y="1158"/>    
+    </execution>    
+    <execution id="177">      
+      <position height="152" width="131" x="815" y="1264"/>    
+    </execution>    
+    <execution id="180">      
+      <position height="19" width="131" x="815" y="1327"/>    
+    </execution>  
+  </object>  
+  <object id="182" language="java" name="com.example.hookietimetable.ProfessorDataParser" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/ProfessorDataParser.java" binary="false" 
+    label="professorDataParser" type="class" autoSize="true">    
+    <position height="-1" width="-1" x="791" y="0"/>    
+    <execution id="172">      
+      <position height="61" width="146" x="950" y="1091"/>    
+    </execution>    
+    <execution id="184">      
+      <position height="19" width="146" x="950" y="1114"/>    
+    </execution>    
+    <execution id="176">      
+      <position height="195" width="146" x="950" y="1175"/>    
+    </execution>    
+    <execution id="188">      
+      <position height="19" width="146" x="950" y="1194"/>    
+    </execution>  
+  </object>  
+  <object id="191" language="java" name="com.example.hookietimetable.Professor" project="HookieTimeTable" 
+    file="/HookieTimeTable/src/com/example/hookietimetable/Professor.java" binary="false" label="professor" type="class" 
+    autoSize="true">    
+    <position height="-1" width="-1" x="620" y="0"/>    
+    <execution id="186">      
+      <position height="76" width="131" x="1100" y="1175"/>    
+    </execution>    
+    <execution id="193">      
+      <position height="19" width="131" x="1100" y="1213"/>    
+    </execution>    
+    <execution id="190">      
+      <position height="76" width="131" x="1100" y="1275"/>    
+    </execution>    
+    <execution id="195">      
+      <position height="19" width="7" x="1162" y="1313"/>    
+    </execution>  
+  </object>  
+  <message id="3" 
+    operation="VTClass(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)" 
+    x="13" y="1040">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </message>  
+  <message id="6" operation="getAdditionalBeginTime():java.lang.String" x="14" y="1189">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </message>  
+  <message id="9" operation="getAdditionalDay():java.lang.String" x="34" y="1286">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="10"/>  
+  </message>  
+  <message id="12" operation="getAdditionalEndTime():java.lang.String" x="4" y="1406">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="13"/>  
+  </message>  
+  <message id="15" operation="getAdditionalLocation():java.lang.String" x="21" y="1520">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="16"/>  
+  </message>  
+  <message id="18" operation="getBeginTime():java.lang.String" x="28" y="1643">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </message>  
+  <message id="21" operation="getCRN():java.lang.String" x="44" y="1759">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="22"/>  
+  </message>  
+  <message id="24" operation="getCapacity():java.lang.String" x="32" y="1870">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="25"/>  
+  </message>  
+  <message id="27" operation="getCourse():java.lang.String">    
+    <end type="SOURCE" refId="26"/>    
+    <end type="TARGET" refId="28"/>  
+  </message>  
+  <message id="30" operation="getCreditHours():java.lang.String">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="31"/>  
+  </message>  
+  <message id="33" operation="getDays():java.lang.String">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="34"/>  
+  </message>  
+  <message id="36" operation="getEndTime():java.lang.String">    
+    <end type="SOURCE" refId="35"/>    
+    <end type="TARGET" refId="37"/>  
+  </message>  
+  <message id="39" operation="getInstructor():java.lang.String">    
+    <end type="SOURCE" refId="38"/>    
+    <end type="TARGET" refId="40"/>  
+  </message>  
+  <message id="42" operation="getLocation():java.lang.String">    
+    <end type="SOURCE" refId="41"/>    
+    <end type="TARGET" refId="43"/>  
+  </message>  
+  <message id="45" operation="getTitle():java.lang.String">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="46"/>  
+  </message>  
+  <message id="48" operation="getType():java.lang.String">    
+    <end type="SOURCE" refId="47"/>    
+    <end type="TARGET" refId="49"/>  
+  </message>  
+  <message id="52" operation="HtmlTableParser(java.lang.String)">    
+    <end type="SOURCE" refId="51"/>    
+    <end type="TARGET" refId="53"/>  
+  </message>  
+  <message id="55">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="2"/>  
+  </message>  
+  <message id="56" operation="getClasses():java.util.List&lt;VTClass&gt;">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="57"/>  
+  </message>  
+  <message id="58">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="5"/>  
+  </message>  
+  <message id="59">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="8"/>  
+  </message>  
+  <message id="60">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="11"/>  
+  </message>  
+  <message id="61">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="14"/>  
+  </message>  
+  <message id="62">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="17"/>  
+  </message>  
+  <message id="63">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="20"/>  
+  </message>  
+  <message id="64">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="23"/>  
+  </message>  
+  <message id="65">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="26"/>  
+  </message>  
+  <message id="66">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="29"/>  
+  </message>  
+  <message id="67">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="32"/>  
+  </message>  
+  <message id="68">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="35"/>  
+  </message>  
+  <message id="69">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="38"/>  
+  </message>  
+  <message id="70">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="41"/>  
+  </message>  
+  <message id="71">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="44"/>  
+  </message>  
+  <message id="72">    
+    <end type="SOURCE" refId="54"/>    
+    <end type="TARGET" refId="47"/>  
+  </message>  
+  <message id="75" operation="Parse(java.lang.String)">    
+    <end type="SOURCE" refId="74"/>    
+    <end type="TARGET" refId="76"/>  
+  </message>  
+  <message id="78" operation="execute(java.lang.Runnable):void">    
+    <end type="SOURCE" refId="77"/>    
+    <end type="TARGET" refId="79"/>  
+  </message>  
+  <message id="81" operation="doInBackground(java.lang.Void[]):java.util.List&lt;Map&lt;String,String&gt;&gt;">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="82"/>  
+  </message>  
+  <message id="83">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="51"/>  
+  </message>  
+  <message id="84">    
+    <end type="SOURCE" refId="80"/>    
+    <end type="TARGET" refId="54"/>  
+  </message>  
+  <message id="86">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="87"/>  
+  </message>  
+  <message id="88" 
+    operation="onPostExecute(java.util.List&lt;java.util.Map&lt;java.lang.String,java.lang.String&gt;&gt;):void" x="245" 
+    y="1200">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="89"/>  
+  </message>  
+  <message id="90">    
+    <end type="SOURCE" refId="85"/>    
+    <end type="TARGET" refId="91"/>  
+  </message>  
+  <message id="94">    
+    <end type="SOURCE" refId="93"/>    
+    <end type="TARGET" refId="95"/>  
+  </message>  
+  <message id="96" operation="getTimeTableData():java.lang.String" x="486" y="542">    
+    <end type="SOURCE" refId="93"/>    
+    <end type="TARGET" refId="97"/>  
+  </message>  
+  <message id="98">    
+    <end type="SOURCE" refId="93"/>    
+    <end type="TARGET" refId="99"/>  
+  </message>  
+  <message id="101" operation="TimeTableQuery(com.example.hookietimetable.MainActivity)">    
+    <end type="SOURCE" refId="100"/>    
+    <end type="TARGET" refId="102"/>  
+  </message>  
+  <message id="104" operation="doInBackground(java.lang.Void[]):java.lang.String" x="410" y="300">    
+    <end type="SOURCE" refId="103"/>    
+    <end type="TARGET" refId="105"/>  
+  </message>  
+  <message id="107">    
+    <end type="SOURCE" refId="106"/>    
+    <end type="TARGET" refId="74"/>  
+  </message>  
+  <message id="108" operation="onPostExecute(java.lang.String):void" x="478" y="696">    
+    <end type="SOURCE" refId="106"/>    
+    <end type="TARGET" refId="109"/>  
+  </message>  
+  <message id="110">    
+    <end type="SOURCE" refId="106"/>    
+    <end type="TARGET" refId="77"/>  
+  </message>  
+  <message id="112">    
+    <end type="SOURCE" refId="111"/>    
+    <end type="TARGET" refId="113"/>  
+  </message>  
+  <message id="116">    
+    <end type="SOURCE" refId="115"/>    
+    <end type="TARGET" refId="100"/>  
+  </message>  
+  <message id="117" operation="onCreate(android.os.Bundle):void" x="623" y="76">    
+    <end type="SOURCE" refId="115"/>    
+    <end type="TARGET" refId="118"/>  
+  </message>  
+  <message id="119">    
+    <end type="SOURCE" refId="115"/>    
+    <end type="TARGET" refId="120"/>  
+  </message>  
+  <message id="122" operation="execute(java.lang.Runnable):void" x="446" y="184">    
+    <end type="SOURCE" refId="121"/>    
+    <end type="TARGET" refId="111"/>  
+  </message>  
+  <message id="123">    
+    <end type="SOURCE" refId="121"/>    
+    <end type="TARGET" refId="124"/>  
+  </message>  
+  <message id="125" operation="findCourse(android.view.View):void" x="625" y="214">    
+    <end type="SOURCE" refId="121"/>    
+    <end type="TARGET" refId="126"/>  
+  </message>  
+  <message id="128">    
+    <end type="SOURCE" refId="127"/>    
+    <end type="TARGET" refId="129"/>  
+  </message>  
+  <message id="130" operation="findProfessor(android.view.View):void">    
+    <end type="SOURCE" refId="127"/>    
+    <end type="TARGET" refId="131"/>  
+  </message>  
+  <message id="132" operation="getCourseName():java.lang.String">    
+    <end type="SOURCE" refId="95"/>    
+    <end type="TARGET" refId="133"/>  
+  </message>  
+  <message id="134" 
+    operation="dataReceivedFromNetwork(java.util.List&lt;java.util.Map&lt;java.lang.String,java.lang.String&gt;&gt;):void" 
+    x="475" y="1204">    
+    <end type="SOURCE" refId="87"/>    
+    <end type="TARGET" refId="135"/>  
+  </message>  
+  <message id="136" operation="getCourseNumber():java.lang.String">    
+    <end type="SOURCE" refId="99"/>    
+    <end type="TARGET" refId="137"/>  
+  </message>  
+  <message id="138" operation="dataReceivedFromNetwork(java.lang.String):void" x="527" y="1337">    
+    <end type="SOURCE" refId="91"/>    
+    <end type="TARGET" refId="139"/>  
+  </message>  
+  <message id="141">    
+    <end type="SOURCE" refId="140"/>    
+    <end type="TARGET" refId="142"/>  
+  </message>  
+  <message id="143" operation="getProfessorName():java.lang.String">    
+    <end type="SOURCE" refId="140"/>    
+    <end type="TARGET" refId="144"/>  
+  </message>  
+  <message id="149" operation="ProfessorQuery(com.example.hookietimetable.MainActivity)">    
+    <end type="SOURCE" refId="148"/>    
+    <end type="TARGET" refId="150"/>  
+  </message>  
+  <message id="152" operation="doInBackground(java.lang.Void[]):java.lang.String">    
+    <end type="SOURCE" refId="151"/>    
+    <end type="TARGET" refId="153"/>  
+  </message>  
+  <message id="154" operation="execute(java.lang.Runnable):void">    
+    <end type="SOURCE" refId="129"/>    
+    <end type="TARGET" refId="155"/>  
+  </message>  
+  <message id="156" operation="getProfessorData():java.lang.String">    
+    <end type="SOURCE" refId="142"/>    
+    <end type="TARGET" refId="157"/>  
+  </message>  
+  <message id="159">    
+    <end type="SOURCE" refId="158"/>    
+    <end type="TARGET" refId="160"/>  
+  </message>  
+  <message id="161" operation="onPostExecute(java.lang.String):void">    
+    <end type="SOURCE" refId="158"/>    
+    <end type="TARGET" refId="162"/>  
+  </message>  
+  <message id="163">    
+    <end type="SOURCE" refId="158"/>    
+    <end type="TARGET" refId="164"/>  
+  </message>  
+  <message id="166" operation="Parse(java.lang.String)">    
+    <end type="SOURCE" refId="160"/>    
+    <end type="TARGET" refId="167"/>  
+  </message>  
+  <message id="168" operation="execute(java.lang.Runnable):void">    
+    <end type="SOURCE" refId="164"/>    
+    <end type="TARGET" refId="169"/>  
+  </message>  
+  <message id="171">    
+    <end type="SOURCE" refId="170"/>    
+    <end type="TARGET" refId="172"/>  
+  </message>  
+  <message id="173" operation="doInBackground(java.lang.Void[]):java.util.List&lt;Map&lt;String,String&gt;&gt;" x="755" 
+    y="1117">    
+    <end type="SOURCE" refId="170"/>    
+    <end type="TARGET" refId="174"/>  
+  </message>  
+  <message id="175">    
+    <end type="SOURCE" refId="170"/>    
+    <end type="TARGET" refId="176"/>  
+  </message>  
+  <message id="178">    
+    <end type="SOURCE" refId="177"/>    
+    <end type="TARGET" refId="145"/>  
+  </message>  
+  <message id="179" 
+    operation="onPostExecute(java.util.List&lt;java.util.Map&lt;java.lang.String,java.lang.String&gt;&gt;):void" x="802" 
+    y="1249">    
+    <end type="SOURCE" refId="177"/>    
+    <end type="TARGET" refId="180"/>  
+  </message>  
+  <message id="181">    
+    <end type="SOURCE" refId="177"/>    
+    <end type="TARGET" refId="146"/>  
+  </message>  
+  <message id="183" operation="ProfessorDataParser(java.lang.String)" x="999" y="1057">    
+    <end type="SOURCE" refId="172"/>    
+    <end type="TARGET" refId="184"/>  
+  </message>  
+  <message id="185">    
+    <end type="SOURCE" refId="176"/>    
+    <end type="TARGET" refId="186"/>  
+  </message>  
+  <message id="187" operation="getProfessors():java.util.List&lt;Professor&gt;" x="965" y="1147">    
+    <end type="SOURCE" refId="176"/>    
+    <end type="TARGET" refId="188"/>  
+  </message>  
+  <message id="189">    
+    <end type="SOURCE" refId="176"/>    
+    <end type="TARGET" refId="190"/>  
+  </message>  
+  <message id="192" 
+    operation="Professor(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)">    
+    <end type="SOURCE" refId="186"/>    
+    <end type="TARGET" refId="193"/>  
+  </message>  
+  <message id="194" operation="toString():java.lang.String">    
+    <end type="SOURCE" refId="190"/>    
+    <end type="TARGET" refId="195"/>  
+  </message>
+</sequence-diagram>
